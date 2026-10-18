@@ -1,0 +1,9 @@
+{
+ "name": "trade-tiem",
+ "title": "Tiệm tạp hoá",
+ "version": "0.1.0",
+ "entry": "tiem.js",
+ "requires": {
+  "host": 3
+ }
+}

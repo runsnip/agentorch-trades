@@ -9,6 +9,7 @@ player picks it on the job board (J):
 | `banhmi/` | `trade-banhmi` | Bánh mì pushcart |
 | `suaxe/` | `trade-suaxe` | Roadside bike repair |
 | `cafe/` | `trade-cafe` | Sidewalk café (cà phê cóc) |
+| `tiem/` | `trade-tiem` | A corner shop in a house taken for rent |
 
 ## How a trade plugs in
 
