@@ -1,0 +1,9 @@
+{
+ "name": "trade-xeom",
+ "title": "Chạy xe ôm",
+ "version": "0.1.0",
+ "entry": "xeom.js",
+ "requires": {
+  "host": 3
+ }
+}

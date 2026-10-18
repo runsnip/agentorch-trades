@@ -1,0 +1,9 @@
+{
+ "name": "trade-banhmi",
+ "title": "Bán bánh mì xe đẩy",
+ "version": "0.1.0",
+ "entry": "cart.js",
+ "requires": {
+  "host": 3
+ }
+}

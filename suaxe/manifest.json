@@ -1,0 +1,9 @@
+{
+ "name": "trade-suaxe",
+ "title": "Sửa xe vỉa hè",
+ "version": "0.1.0",
+ "entry": "repair.js",
+ "requires": {
+  "host": 3
+ }
+}

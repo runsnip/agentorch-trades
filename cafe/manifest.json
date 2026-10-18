@@ -1,0 +1,9 @@
+{
+ "name": "trade-cafe",
+ "title": "Cà phê cóc vỉa hè",
+ "version": "0.1.0",
+ "entry": "cafe.js",
+ "requires": {
+  "host": 3
+ }
+}
