@@ -1,0 +1,9 @@
+{
+ "name": "trade-chohang",
+ "title": "Chở hàng thuê, dọn nhà",
+ "version": "0.1.0",
+ "entry": "chohang.js",
+ "requires": {
+  "host": 3
+ }
+}
